@@ -97,7 +97,7 @@ class App extends Component {
     return (
       <div className="App">
 
-          <div className="bg-light center mt-5 rounded shadow" style={{width: "700px"}}>
+          <div className="bg-light center mt-5 rounded shadow" style={{width: "80%", minWidth: "700px"}}>
              {viskas}
           </div>
 
